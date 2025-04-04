@@ -1,37 +1,49 @@
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
-/>
+# 👋 Hey there! I'm Mostafa
 
-# Hello, World! ( Esp. you 👋😉 )
+🎓 CS student at Yazd University  
+🧠 Curious about AI, systems, and real-world problem solving  
+📍 Building projects in Rust, Go, Python & TypeScript  
 
-I'm Mostafa Sarvi 👨‍💻 a FullStack Developer and A CS Student 🎓. I love learning the best tecnologies ever made and also use them in my projects.
+---
 
-My Contacts Are:
-[<i class="ci ci-telegram ci-sm">Telegram</i> Telegram](https://t.me/mostafa_Sarvi) |
-[<i class="ci ci-gmail-dark ci-sm">Gmail</i> Gmail](mailto:mostafasarvi2004@gmail.com)
+## 🛠️ Tech I Work With
 
-<center>
+**Backend:**  
+🦀 Rust (learning 👨🏻‍🎓)  
+🐹 Go  
+🐍 Python   
+🐘 PostgreSQL  
+🟥 Redis
 
-[![Mostafa’s github stats](https://github-readme-stats.vercel.app/api?username=sMostafaSarvi)](https://github.com/sMostafaSarvi)
+**Frontend & UI:**  
+⚛️ React / Next.js  
+ Bootstrap
 
+**DevOps & Tools:**  
+🐳 Docker & Docker Compose  
+🖥️ Nginx  
+🐧 Arch & Debian Linux  
 
-## 🏆 Technogies I learned
+---
 
-<i class="ci ci-html ci-3x"></i>
-<i class="ci ci-css ci-3x"></i>
-<i class="ci ci-js ci-3x"></i>
-<i class="ci ci-python ci-3x"></i>
-<i class="ci ci-cpp ci-3x"></i>
-<i class="ci ci-sass ci-3x"></i>
-<i class="ci ci-react ci-3x"></i>
-<i class="ci ci-bootstrap ci-3x"></i>
-<i class="ci ci-figma ci-3x"></i>
-<i class="ci ci-git ci-3x"></i>
+## 🔬 Learning & Exploring
 
-## 🎓 Technogies I'm Learning
-<i class="ci ci-go ci-3x"></i>
-<i class="ci ci-nextjs ci-3x"></i>
-<i class="ci ci-postgresql ci-3x"></i>
+🧠 Event-Driven Architecture (Rust-based real-time data pipelines)  
+🔐 Implementing secure JWT-based authentication  
+📦 Writing a GitHub-hosted static blog from scratch  
+📘 Creating educational resources to present in university
 
-</center>
+---
+
+## 💡 Current Focus Areas
+
+- Rust + Python hybrid projects for intelligent systems  
+- Event-Driven design applied to user behavior tracking  
+
+---
+
+## 🤝 Let's Connect - My Socials
+
+- [Telegram](https://t.me/@smostafasarvi)
+- [LinkedIn](https://www.linkedin.com/in/mostafasarvi/)
+- [Email](mailto:mostafasarvi2004@gmail.com)
